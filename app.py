@@ -3,3 +3,9 @@ def addition(a,b):
 
 def substraction(a,b):
     return a-b
+
+
+def divion(a,b):
+    return a/b
+    
+
